@@ -57,10 +57,12 @@ Could be a web-based interface or a desktop application.
 
 Here’s a conceptual diagram illustrating the PolyScript architecture:
 
-'''
+   
 ---
 
-+---------------------+
+''''''''''''
+
+      +---------------------+
           |       User          |
           |     Interface (UI)  |
           +----------+----------+
@@ -73,10 +75,10 @@ Here’s a conceptual diagram illustrating the PolyScript architecture:
      +---------------+-----------------+
      |               |                 |
      |               |                 |
-+----v-----+   +---v------+     +------v-----+
-| Python   |   | Rust     |     | JavaScript  |
-| Module   |   | Module   |     | Module      |
-+----------+   +----------+     +-------------+
+      +----v-----+   +---v------+     +------v-----+
+    | Python   |   | Rust     |     | JavaScript  |
+    | Module   |   | Module   |     | Module      | 
+    +----------+   +----------+     +-------------+
      |               |                 |
      +---------------+-----------------+
                      |
@@ -98,8 +100,10 @@ Here’s a conceptual diagram illustrating the PolyScript architecture:
           | Execution Environment|
           +---------------------+
 
----
-'''
+        ---
+
+''''''''''''
+
 3. Detailed Component Descriptions
 
 1. Language Modules:

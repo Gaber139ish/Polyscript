@@ -1,0 +1,12 @@
+# Dependencies for Python module functionality
+numpy>=1.19.2
+cython>=0.29.21
+
+# Interfacing with C++
+pybind11>=2.6.2
+
+# Interfacing with Rust
+maturin>=0.13.4
+
+# JavaScript - dependencies can vary depending on if you're using pyodide or wasm
+pyodide>=0.18.1

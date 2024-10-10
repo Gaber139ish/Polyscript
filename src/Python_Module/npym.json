@@ -1,0 +1,12 @@
+{
+  "name": "python_module_js",
+  "version": "1.0.0",
+  "description": "A JavaScript wrapper for the Python module using Pyodide",
+  "main": "javascript_module.js",
+  "scripts": {
+    "start": "node javascript_module.js"
+  },
+  "dependencies": {
+    "pyodide": "^0.18.1"
+  }
+}

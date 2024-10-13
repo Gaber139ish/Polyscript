@@ -22,7 +22,8 @@ PolyScript is currently in the early stages of development. Installation instruc
 
 **Clone the repository:**
 
-git clone https://github.com/YourUsername/PolyScript.git
+git clone https://github.com/Gaber139ish/Polyscript
+
 
 ## Installation steps for future versions will include:
 
